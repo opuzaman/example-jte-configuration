@@ -7,5 +7,4 @@
 libraries{
   sonarqube
   maven
-  gradle
 }
