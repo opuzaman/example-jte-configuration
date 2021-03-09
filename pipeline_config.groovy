@@ -6,4 +6,6 @@
 */
 libraries{
   sonarqube
+  maven
+  gradle
 }
